@@ -1,5 +1,5 @@
 {
-  "name": "decorators-no-eject",
+  "name": "todolist-with-mobx-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
